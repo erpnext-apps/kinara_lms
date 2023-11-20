@@ -83,7 +83,7 @@
  "modified": "2023-11-13 15:03:00.146842",
  "modified_by": "Administrator",
  "module": "Kinara LMS",
- "name": "PDC Registration",
+ "name": "Loan PDC",
  "naming_rule": "Expression",
  "owner": "Administrator",
  "permissions": [

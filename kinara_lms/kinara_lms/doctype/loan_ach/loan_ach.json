@@ -172,7 +172,7 @@
  "modified": "2023-11-09 18:54:17.253973",
  "modified_by": "Administrator",
  "module": "Kinara LMS",
- "name": "ACH Registration",
+ "name": "Loan ACH",
  "naming_rule": "By fieldname",
  "owner": "Administrator",
  "permissions": [

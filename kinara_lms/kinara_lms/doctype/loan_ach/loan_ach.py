@@ -5,5 +5,5 @@
 from frappe.model.document import Document
 
 
-class ACHRegistration(Document):
+class LoanACH(Document):
 	pass

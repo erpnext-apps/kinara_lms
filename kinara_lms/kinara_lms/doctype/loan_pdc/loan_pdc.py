@@ -5,7 +5,7 @@ import frappe
 from frappe.model.document import Document
 
 
-class PDCRegistration(Document):
+class LoanPDC(Document):
 	def validate(self):
 		if self.type == "PDC":
 			if self.emi is None:

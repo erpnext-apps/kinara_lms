@@ -245,7 +245,10 @@ fixtures = [
     {"dt": "Property Setter", "filters": [
         [
             "name", "in", [
-                "Customer-customer_type-options",
+                "Loan-custom_individual_applicant",
+                "Loan-custom_guarantors",
+                "Loan-custom_co_applicants",
+                "Loan-custom_channel_partner",
             ]
         ]
     ]}

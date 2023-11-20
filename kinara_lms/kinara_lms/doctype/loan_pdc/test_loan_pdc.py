@@ -5,5 +5,5 @@
 from frappe.tests.utils import FrappeTestCase
 
 
-class TestACHRegistration(FrappeTestCase):
+class TestLoanPDC(FrappeTestCase):
 	pass
